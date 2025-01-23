@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a franch game Developper, who is specialized on 2D game ( for now ).
+I'm a french game Developper, who is specialized on 2D game ( for now ).
 
 - 👯 I’m looking to collaborate on game
 

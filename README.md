@@ -7,6 +7,8 @@ I'm a french game Developper, I developpend on both unity2D and unity3D
 
 I'm codding in c++/c# 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yaellgrs)](https://git.io/streak-stats)
+
 <!--
 **yaellgrs/yaellgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
